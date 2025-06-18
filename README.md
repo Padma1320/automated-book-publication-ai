@@ -21,7 +21,7 @@ This project demonstrates an AI-powered workflow that rewrites a public domain b
 - `Notebook.ipynb`: Full AI + ChromaDB workflow
 - `chapter_1_spun.txt`: AI-rewritten version
 - `chapter_1_final.txt`: Final reviewed version
-- `walkthrough.mp4`: Video walkthrough
+- `workflow.compressed.mp4`: Video walkthrough
 
 
 
