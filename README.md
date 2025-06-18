@@ -22,6 +22,5 @@ This project demonstrates an AI-powered workflow that rewrites a public domain b
 - `chapter_1_spun.txt`: AI-rewritten version
 - `chapter_1_final.txt`: Final reviewed version
 - `workflow.compressed.mp4`: Video walkthrough
-
-
+**Note:** If GitHub doesn’t support direct video playback, you can also download and view it offline.
 
